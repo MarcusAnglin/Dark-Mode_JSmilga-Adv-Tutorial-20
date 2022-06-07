@@ -14,3 +14,9 @@ The rest of this readme is about my expectations before and my experience after 
 #### what I expect.
 
 This seems to be a simple tutorial where we toggle the styles on a page from a light theme to a dark one, I'm expecting lots of useState variables.
+
+## ::AFTER
+
+#### what stood out.
+
+This project was very straight-forward, nothing stood out and I was able to see where we were going during the lesson.
